@@ -23,6 +23,11 @@ Buka URL dari Vite, biasanya `http://localhost:5173`.
 ## Login demo
 
 Pilih salah satu akun, lalu isi password dengan teks apa pun untuk masuk. Ini hanya simulasi frontend. Autentikasi sebenarnya nanti harus dilakukan oleh Laravel API.
+sanderlina.imelda (1234567890) Super Admin
+ahmad (123456) Teknisi Lapangan
+nemi (5566778899) Team IC SM
+alqori (9988776655) Team IC SO
+rizki (1122334455) Dept Head
 
 ## File yang paling relevan
 
